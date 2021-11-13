@@ -1,5 +1,9 @@
 #  RedFox-Slysoft
-RedFox - Slysoft - https://www.redfox.bz
+RedFox - Slysoft
+
+https://www.redfox.bz
+
+https://www.elby.ch/download
 
 For Windows platform only.
 
