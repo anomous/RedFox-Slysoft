@@ -3,7 +3,7 @@ RedFox - Slysoft
 
 https://www.redfox.bz
 
-https://www.elby.ch/download
+https://www.elby.ch/download.html
 
 For Windows platform only.
 
